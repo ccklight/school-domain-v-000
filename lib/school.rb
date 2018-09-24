@@ -1,7 +1,7 @@
 class School 
   school = School.new("Bayside High School") 
   school.roster
-  @school = school 
+  @school = School.new
   
   
   school.add_student("Zach Morris", 9)
