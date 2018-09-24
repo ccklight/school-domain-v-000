@@ -5,10 +5,13 @@ class School
   
   def initialize school.roster
   
+  end 
+  
   
   def add_student(grade, student)
   @school.roster 
-  
+   
+  end 
   
   def grade(grade) 
     
