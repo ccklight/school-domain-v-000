@@ -13,9 +13,11 @@ class School
    
   end 
   
+ 
   def grade(grade) 
     
   end
+  
   school.grade(grade)
   
   school.sort
