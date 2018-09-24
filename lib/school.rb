@@ -1,6 +1,6 @@
 class School 
   school = School.new("Bayside High School") 
-  school.roster
+  school.roster = []
   @school = School.new
   
   
@@ -18,16 +18,7 @@ class School
   
   
   
-#   describe 'School' do
-#   before :each do
-#     @school = School.new("Test School")
-#   end
 
-#   describe "::new" do
-#     it 'has an empty roster when initialized' do
-#       expect(@school.roster.length).to eq(0)
-#     end
-#   end
 
 #   describe "#add_student" do
 #     it 'is able to add a student' do
