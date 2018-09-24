@@ -6,19 +6,21 @@ class School
   end 
   
   
-  def add_student(grade, student)
+  def add_student
   @school.roster 
    
   end 
   
  
-  def grade(grade) 
+  def grade
     
   end
   
-  school.grade(grade)
+
   
-  school.sort
+  def sort 
+    
+  end
   
   
   
