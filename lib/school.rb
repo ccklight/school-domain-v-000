@@ -22,6 +22,7 @@ class School
     roster.each do | students, grade| 
       sorted.grade = student.sort
       end
+      
   end
   
   
