@@ -25,6 +25,7 @@ class School
       end
       sorted
   end
+end
   
   
   
