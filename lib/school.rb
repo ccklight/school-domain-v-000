@@ -9,3 +9,5 @@ class School
     
   end
   school.grade(grade)
+  
+  school.sort
