@@ -1,7 +1,7 @@
 class School 
   attr_accessor 
   
-  def initialize school.roster
+  def initialize 
   
   end 
   
