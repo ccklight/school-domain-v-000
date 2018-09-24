@@ -4,3 +4,8 @@ class School
   school.add_student("Zach Morris", 9)
   school.roster 
   
+  
+  def grade(grade) 
+    
+  end
+  school.grade(grade)
