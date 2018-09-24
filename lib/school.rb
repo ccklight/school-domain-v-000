@@ -3,6 +3,8 @@ class School
   school.roster = []
   @school = School.new
   
+  def initialize school.roster
+  
   
   school.add_student("Zach Morris", 9)
   school.roster 
