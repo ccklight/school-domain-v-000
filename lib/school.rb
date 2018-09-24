@@ -6,7 +6,7 @@ class School
   def initialize school.roster
   
   
-  school.add_student("Zach Morris", 9)
+  school.add_student(student, grade)
   @school.roster 
   
   
